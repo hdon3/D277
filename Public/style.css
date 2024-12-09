@@ -1,0 +1,21 @@
+
+
+aside {
+     float:right; 
+    }
+
+img {
+  display: block;
+  margin-left: auto;
+
+}
+
+li span {
+position: relative;
+right: auto-40px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3em;
+}
